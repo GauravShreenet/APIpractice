@@ -1,0 +1,1 @@
+const urlApi = "https://api.humorapi.com/jokes/search?api-key=YOUR-API-KEY&include-tags=tag1,tag2."
